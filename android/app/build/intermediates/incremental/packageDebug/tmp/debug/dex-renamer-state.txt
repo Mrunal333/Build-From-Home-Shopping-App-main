@@ -1,0 +1,4 @@
+#Mon Jun 06 16:14:02 IST 2022
+base.0=E\:\\Fluttre_Projects\\VS code\\OEPP Project\\Build-From-Home-Shopping-App-main\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
